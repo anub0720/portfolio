@@ -1,0 +1,43 @@
+.title{
+    display: flex;  
+    left:0;
+    justify-content: center;
+}
+.designation{
+    font-size:xx-large;
+    font-weight: 900;
+    position:absolute;
+    width:100%;
+    top:80px;
+    left:0;
+    height:100px;
+}
+.detail{
+    position: absolute;
+    top: 100px;
+    width:100%;
+    left: 0;
+    transform: translateY(16vh);
+}
+.image{
+    width:100%;
+    display: flex;
+    justify-content: center;
+}
+.lower-desig{
+    margin-top :8px;
+    display:flex;
+    width:95%;
+    justify-content: space-between;
+    font-size: larger;
+    font-weight: 700;
+}
+.lowerStuff{
+    color:rgba(0, 0, 0, 0.663);
+    font-size:xx-large;
+    display:flex;
+    justify-content: center;
+}
+.Brown{
+    border-radius: 12px;
+}

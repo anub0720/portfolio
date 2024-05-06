@@ -1,0 +1,8 @@
+.nav{
+    background-color: rgb(255, 255, 255)!important;
+    color:grey!important;
+    position: absolute;
+    left:0!important;
+    top:0!important;
+    box-shadow:none!important;
+}
